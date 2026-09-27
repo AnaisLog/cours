@@ -31,7 +31,11 @@
 antibiotique adapté, tout en surveillant l'efficacité, la tolérance et
 le risque de résistance.
 
-## 🎯 Classes, molécules, indications et points de surveillance
+---
+
+## 🎯 2. CLASSES D’ANTIBIOTIQUES
+
+> 🧠 **Repère examen :** pour chaque antibiotique, retenir **classe → exemples → indication → effet indésirable caractéristique → surveillance**.
 
   --------------------------------------------------------------------------------------------------
   Classe               Antibiotiques du       Repères / indications du   Effets indésirables et
@@ -144,7 +148,10 @@ le risque de résistance.
 > pas un macrolide ; elle appartient aux **lincosamides**.
 > citeturn1search8
 
-## 🧠 Pharmacodynamie : ce que l'antibiotique fait à la bactérie
+---
+
+## 🧬 3. PHARMACODYNAMIE
+### « Ce que l’antibiotique fait à la bactérie »
 
 -   **Bactéricide** : détruit les bactéries.
 -   **Bactériostatique** : inhibe leur multiplication.
@@ -159,7 +166,10 @@ le risque de résistance.
 **Antibiotique adapté → cible bactérienne → inhibition/destruction →
 diminution de la charge bactérienne → amélioration clinique**
 
-## 🧪 Pharmacocinétique : ce que l'organisme fait à l'antibiotique
+---
+
+## 🧪 4. PHARMACOCINÉTIQUE
+### « Ce que l’organisme fait à l’antibiotique »
 
   -----------------------------------------------------------------------
   Paramètre               À retenir               Conséquence infirmière
@@ -186,7 +196,11 @@ diminution de la charge bactérienne → amélioration clinique**
                           des concentrations      
   -----------------------------------------------------------------------
 
-## 💊 Administration et surveillance infirmière
+---
+
+## 💉 5. ADMINISTRATION & SURVEILLANCE INFIRMIÈRE
+
+### 🔎 Avant l’administration
 
 ### Avant
 
@@ -201,7 +215,7 @@ diminution de la charge bactérienne → amélioration clinique**
 -   Pour les formes IV : reconstitution, dilution, compatibilité et
     débit selon RCP/protocole.
 
-### Pendant
+### 👀 Pendant l’administration
 
   -----------------------------------------------------------------------
   Surveillance            Pourquoi ?              Signes à repérer
@@ -233,7 +247,7 @@ diminution de la charge bactérienne → amélioration clinique**
                           molécules               syncope
   -----------------------------------------------------------------------
 
-### Après
+### ✅ Après l’administration
 
 -   Évaluer l'efficacité clinique et les résultats
     biologiques/microbiologiques prescrits.
@@ -242,7 +256,11 @@ diminution de la charge bactérienne → amélioration clinique**
 -   Ne pas modifier seul la dose, le rythme ou la durée : se référer à
     la prescription/protocole.
 
-## 🚫 Précautions et interactions à connaître
+---
+
+## 🚫 6. PRÉCAUTIONS & INTERACTIONS
+
+> ⚠️ **Toujours vérifier :** prescription · allergies · fonction rénale/hépatique · interactions · voie · dose · horaire.
 
   ---------------------------------------------------------------------------------
   Situation               Antibiotiques concernés  Point de vigilance
@@ -272,7 +290,9 @@ diminution de la charge bactérienne → amélioration clinique**
                                                    spécifiques
   ---------------------------------------------------------------------------------
 
-## ⚠️ Effets indésirables graves à reconnaître
+---
+
+## 🚨 7. EFFETS INDÉSIRABLES GRAVES À RECONNAÎTRE
 
   -----------------------------------------------------------------------------
   Situation               Signes d'alerte           Conduite
@@ -304,7 +324,11 @@ diminution de la charge bactérienne → amélioration clinique**
                                                     rénale
   -----------------------------------------------------------------------------
 
-## 🩺 Mini-situation clinique
+---
+
+## 🩺 8. MINI-SITUATION CLINIQUE
+
+> 👴 **Situation :** personne âgée + gentamicine + hausse de créatinine + bourdonnements d’oreille.
 
 👴 Une personne âgée reçoit de la **gentamicine**. La créatinine
 augmente et elle signale des bourdonnements d'oreille.
@@ -323,7 +347,9 @@ auditifs/vestibulaires, surveiller et **alerter rapidement** le
 médecin/pharmacien. Les toxicités rénale et auditive des aminosides sont
 particulièrement importantes à surveiller. citeturn0search48
 
-## 🧠 Mémo express
+---
+
+## 🧠 9. MÉMO EXPRESS
 
 **ATB = Alergie -- Toxicité -- Bilan**
 
@@ -333,7 +359,9 @@ particulièrement importantes à surveiller. citeturn0search48
 -   **B** : bilan clinique et biologique : température, état général,
     créatinine/DFG, NFS, bilan hépatique ou ECG selon l'antibiotique.
 
-## ✅ L'essentiel à retenir
+---
+
+## 📌 10. L’ESSENTIEL À RETENIR
 
   -----------------------------------------------------------------------
   Question                            Réponse express
@@ -370,7 +398,9 @@ particulièrement importantes à surveiller. citeturn0search48
                                       aggravation de l'infection
   -----------------------------------------------------------------------
 
-## 📚 Sources
+---
+
+## 📚 SOURCES
 
 -   **Document pédagogique fourni --- Les classes d'antibiotiques**,
     utilisé comme base des molécules, classes, indications et
