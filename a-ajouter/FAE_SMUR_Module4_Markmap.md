@@ -1,0 +1,306 @@
+# 🚑 FAE SMUR — Module 4 : Participation à la prise en soins
+## 🎯 Fil conducteur : mission → évaluation → alerte → rôle → techniques → risques → cadre
+- **📟 Réception et préparation de mission**
+  - **Comprendre la mission**
+    - Localisation et accès
+    - Motif et gravité suspectée
+    - Nombre de patient·es / victimes
+    - Risques signalés et contraintes du terrain
+  - **Se coordonner**
+    - Identifier le/la responsable médical·e
+    - Écouter les consignes de régulation
+    - Clarifier la répartition des rôles
+    - Reformuler si une information est incertaine
+  - **Préparer le départ**
+    - Vérifier véhicule et disponibilité du matériel
+    - Préparer les équipements demandés
+    - Vérifier les EPI adaptés
+    - Anticiper itinéraire et accès
+  - **Sécuriser sur place**
+    - Circulation et suraccident
+    - Violence ou danger humain
+    - Feu, électricité, atmosphère dangereuse
+    - Risque NRBC
+    - Ne pas s'exposer avant sécurisation
+- **🔎 Évaluation initiale : XABCDE**
+  - **X — Hémorragie massive**
+    - Rechercher un saignement externe immédiatement menaçant
+    - Alerter sans délai
+    - Participer à l'hémostase selon formation et protocole
+    - Réévaluer le saignement
+  - **A — Airway : voies aériennes**
+    - Rechercher obstruction ou encombrement
+    - Repérer ronflement, gargouillement ou absence de parole
+    - Alerter et préparer le matériel demandé
+    - Gestes de désobstruction ou ventilation selon compétences et consignes
+  - **B — Breathing : respiration**
+    - Observer fréquence respiratoire
+    - Observer amplitude et effort
+    - Repérer tirage, cyanose, difficulté à parler, épuisement
+    - Recueillir la SpO₂ si indiqué et dans le cadre autorisé
+    - Recueillir le CO non invasif selon contexte et matériel
+  - **C — Circulation**
+    - Rechercher hémorragie et signes de choc
+    - Observer couleur, température et aspect de la peau
+    - Recueillir les paramètres autorisés
+    - Alerter et aider l'équipe
+  - **D — Disability : neurologie**
+    - Observer conscience et comportement
+    - Rechercher déficit neurologique ou convulsion
+    - Rechercher une évolution brutale
+    - Recueillir la glycémie si indiqué et dans le cadre applicable
+  - **E — Exposure : exposition**
+    - Rechercher lésions et saignements cachés
+    - Évaluer l'environnement et la température
+    - Préserver pudeur et intimité
+    - Prévenir l'hypothermie
+  - **Règle de priorisation**
+    - Une détresse ou une aggravation impose une alerte immédiate
+    - Ne pas attendre la fin du bilan pour transmettre une urgence
+    - XABCDE organise l'évaluation mais n'élargit pas les compétences légales
+- **🧠 Détresse neurologique**
+  - **Signes à repérer**
+    - Altération de la vigilance
+      - Somnolence inhabituelle
+      - Réponse inadaptée ou absence de réponse
+    - Modification du comportement
+      - Confusion
+      - Agitation inhabituelle
+    - Signes neurologiques
+      - Déficit moteur ou sensitif brutal
+      - Trouble de la parole
+      - Asymétrie faciale
+      - Convulsion
+  - **Informations à recueillir**
+    - Heure de début des signes
+    - Dernière heure connue sans symptôme
+    - Évolution depuis le début
+    - Antécédents et traitements utiles s'ils sont connus
+  - **Conduite et rôle**
+    - Sécuriser l'environnement
+    - Alerter l'équipe médicale
+    - Surveiller conscience et respiration
+    - Préparer le matériel demandé
+    - Transmettre les signes observés sans interprétation hasardeuse
+  - **Causes urgentes à connaître**
+    - AVC
+    - Hypoglycémie
+    - Crise convulsive
+    - Traumatisme crânien
+    - Intoxication
+    - État de choc
+  - **Risques et limites**
+    - Ne pas banaliser une confusion nouvelle
+    - Ne pas donner à boire ou manger de sa propre initiative
+    - Ne pas administrer de produit sans cadre légal et consigne médicale
+- **🫁 Détresse ventilatoire**
+  - **Signes d'alerte**
+    - Fréquence respiratoire anormale
+    - Difficulté à parler
+    - Tirage et utilisation des muscles accessoires
+    - Sueurs et agitation
+    - Cyanose : signe tardif
+    - Épuisement ou baisse de conscience
+  - **Mesures et transmission**
+    - Fréquence respiratoire
+    - Aspect et effort respiratoire
+    - SpO₂
+      - Vérifier la qualité du signal
+      - Interpréter avec les signes cliniques
+    - CO non invasif selon appareil et contexte
+      - Signaler une exposition possible au monoxyde de carbone
+  - **Rôle de la conductrice ambulancière**
+    - Alerter sans délai
+    - Installer selon tolérance et consignes
+    - Faciliter l'accès au patient
+    - Préparer oxygène et matériel demandé
+    - Aider l'équipe dans les limites de ses compétences
+    - Surveiller et signaler toute aggravation
+  - **Pièges**
+    - Une SpO₂ isolée ne résume pas l'état respiratoire
+    - Une valeur apparemment rassurante n'exclut pas toute détresse
+    - En intoxication au CO, l'oxymètre standard peut être trompeur
+- **❤️ Détresse circulatoire**
+  - **Signes d'alerte**
+    - Pâleur
+    - Peau froide et moite
+    - Marbrures
+    - Pouls rapide ou faible
+    - Malaise ou syncope
+    - Confusion
+    - Hypotension si mesurée
+    - Hémorragie visible
+  - **Comprendre le choc**
+    - Perfusion insuffisante des organes
+    - Risque de défaillance d'organes
+    - Hypotension parfois tardive
+  - **Conduite et rôle**
+    - Alerter
+    - Repérer et signaler un saignement
+    - Participer à l'hémostase selon formation et protocole
+    - Recueillir les paramètres autorisés
+    - Préparer le matériel demandé
+    - Surveiller l'évolution
+  - **Mesures du programme**
+    - Hémoglobinémie
+      - Mesure avec l'appareil prévu
+      - Réalisation dans le cadre de prescription applicable
+    - Glycémie
+      - Recherche d'une anomalie glycémique possible
+      - Réalisation selon indication et cadre applicable
+    - Les mesures ne remplacent pas l'évaluation clinique
+- **📟 ECG et mesures non invasives**
+  - **ECG automatisé**
+    - Finalité
+      - Enregistrement à visée diagnostique
+      - Transmission à l'équipe médicale
+    - Points de qualité
+      - Positionnement correct des électrodes
+      - Limiter les artéfacts
+      - Noter l'heure
+      - Transmettre sans retarder l'alerte
+    - Limite
+      - Réaliser et transmettre ne signifie pas interpréter ou poser un diagnostic
+  - **Glycémie**
+    - Finalité
+      - Repérer une anomalie glycémique possible
+    - Sécurité
+      - Hygiène des mains
+      - Matériel adapté
+      - Valeur, unité et heure transmises
+  - **Hémoglobinémie**
+    - Finalité
+      - Mesurer l'hémoglobine avec un dispositif adapté
+    - Cadre
+      - Acte sur prescription médicale dans les conditions prévues par le CSP
+  - **SpO₂ et CO**
+    - Recueil non invasif
+    - Vérifier la qualité du signal et le contexte
+    - Transmettre valeur et signes cliniques
+- **💊 Administration de produits et médicaments : cadre AMU**
+  - **Condition générale**
+    - Ambulancier·ère titulaire du diplôme requis
+    - Formation spécifique validée
+    - Intervention dans le cadre de l'aide médicale urgente
+    - Sous responsabilité du médecin régulateur ou du médecin de l'équipe SMUR
+    - Respect du lien médical, de la prescription lorsqu'elle est exigée et des protocoles
+  - **Actes en lien constant avec le médecin**
+    - Recueil de la glycémie
+    - Administration en aérosols de produits non médicamenteux
+    - Évaluation de la douleur et observation de la conscience
+    - Recueil SpO₂ ou CO non invasif
+    - Prise de température, pouls et pression artérielle non invasive
+  - **Actes sur prescription médicale si l'urgence le requiert**
+    - Aérosol ou pulvérisation de produits médicamenteux
+      - Asthme aigu grave chez une personne asthmatique connue recevant habituellement ce traitement
+      - Douleur aiguë
+    - Voie orale ou intranasale
+      - Overdose d'opiacés
+      - Douleur aiguë
+      - Respect des recommandations de bonnes pratiques
+    - Stylo auto-injecteur
+      - Choc anaphylactique chez une personne allergique connue
+      - Hypoglycémie chez une personne diabétique connue
+    - ECG automatisé avec transmission
+    - Recueil de l'hémoglobinémie
+  - **Sécuriser l'administration**
+    - Confirmer consigne et identité du patient
+    - Vérifier produit, indication, voie et dose selon prescription/protocole
+    - Vérifier allergies et contre-indications connues
+    - Surveiller effet et tolérance
+    - Tracer et transmettre
+  - **Limites à ne pas confondre**
+    - Contribution à l'administration ne signifie pas prescription
+    - Pas de choix autonome de médicament, dose ou indication
+    - La condition de patient conscient et cohérent concerne la voie orale ou intranasale dans le cadre prévu
+    - La formation ne crée pas une compétence générale d'administration
+- **🤰 Accouchement inopiné**
+  - **Alerter et anticiper**
+    - Contacter la régulation médicale
+    - Demander renfort médical ou maïeutique
+    - Préciser terme estimé et contractions
+    - Préciser envie de pousser et présentation si connue
+    - Signaler saignement et état maternel
+  - **Préparer l'environnement**
+    - Espace propre et chaud
+    - Matériel prévu
+    - Hygiène des mains et EPI
+    - Respect de l'intimité
+  - **À la naissance**
+    - Assister selon formation et consignes
+    - Protéger le nouveau-né du froid
+    - Observer respiration, tonus et coloration
+    - Surveiller la mère et les saignements
+    - Alerter immédiatement en cas d'anomalie
+  - **Risques et limites**
+    - Ne pas tirer sur le bébé ou le cordon
+    - Ne pas retarder l'alerte ni le transport
+    - Suivre les consignes médicales et protocoles locaux
+- **🤝 Place dans l'équipe SMUR**
+  - **Avant le contact patient**
+    - Conduire et stationner en sécurité
+    - Anticiper l'accès et le matériel
+    - Préparer l'environnement de soins
+  - **Pendant la prise en charge**
+    - Sécuriser la scène
+    - Observer et signaler les changements
+    - Réaliser uniquement les actes autorisés et maîtrisés
+    - Aider aux gestes de l'équipe selon les consignes
+    - Préparer et rendre disponible le matériel
+    - Respecter la répartition des rôles et la direction médicale
+  - **Après la prise en charge**
+    - Participer au transfert selon consignes
+    - Transmettre les informations utiles
+    - Réapprovisionner et contrôler le matériel
+    - Nettoyer et désinfecter selon protocole
+    - Signaler les anomalies et événements indésirables
+  - **Transmission structurée**
+    - Heure et contexte
+    - Signes observés
+    - Paramètres avec unités
+    - Évolution
+    - Gestes réalisés
+    - Réponse du patient
+- **⚖️ Cadre légal et limites professionnelles**
+  - **Textes de référence**
+    - Code de la santé publique, article R.6311-17
+    - Décret n° 2022-629 du 22 avril 2022
+    - Arrêté du 11 avril 2022 relatif au DEA et à la formation
+  - **Distinguer les cadres**
+    - Référentiel DEA
+      - Compétences générales et soins d'urgence enseignés
+    - Actes spécifiques AMU
+      - Conditions légales et formation dédiée
+    - Procédures locales SMUR
+      - Organisation, matériel et modalités opérationnelles du CHU
+  - **Conduite en cas de doute**
+    - Ne pas improviser
+    - Sécuriser le patient et l'équipe
+    - Alerter le ou la responsable médical·e
+    - Demander une clarification
+    - Appliquer la procédure en vigueur
+  - **Responsabilité et éthique**
+    - Secret professionnel
+    - Consentement et dignité
+    - Traçabilité
+    - Respect du champ de compétences
+- **⭐ Mémo opérationnel**
+  - **SÉCURISER**
+    - Scène, équipe, patient et environnement
+  - **OBSERVER**
+    - XABCDE et signes d'évolution
+  - **ALERTER**
+    - Transmettre sans attendre une dégradation
+  - **AIDER**
+    - Rôle défini, actes autorisés, matériel prêt
+  - **SURVEILLER**
+    - Réévaluer et repérer les complications
+  - **TRANSMETTRE**
+    - Faits, heures, valeurs, gestes et réponse
+## 📚 Sources officielles françaises
+- **Code de la santé publique — article R.6311-17**
+  - https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045644940
+- **Décret n° 2022-629 du 22 avril 2022 — actes des ambulanciers dans le cadre de l'AMU**
+  - https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045640964
+- **Arrêté du 11 avril 2022 — diplôme d'État d'ambulancier et référentiels**
+  - https://www.legifrance.gouv.fr/loda/id/JORFTEXT000045593318

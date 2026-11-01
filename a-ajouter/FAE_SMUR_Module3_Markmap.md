@@ -1,0 +1,340 @@
+# 🚨 FAE SMUR — Module 3
+## Situations sanitaires exceptionnelles (SSE)
+
+- **🎯 Objectif et référentiel**
+  - Durée estimée : 21 heures
+  - Identifier la place de l'ambulancier SMUR dans la chaîne médicale des secours
+  - Adapter son comportement aux situations sanitaires exceptionnelles
+  - Identifier les maillons de la chaîne médicale
+  - Comprendre la régulation médicale des urgences collectives
+  - Décrire les structures et moyens spécifiques
+  - Connaître les parcours NRBC-E, attentat et REB
+  - Connaître les principes de triage
+  - Maîtriser le triage secouriste en SSE
+  - Référentiel : arrêté du 17 mai 2023, annexe I, module 3
+
+- **🧭 1. Situations sanitaires exceptionnelles**
+  - **Définition**
+    - Événement provoquant une augmentation importante des besoins de soins
+    - Ou perturbation de l'offre de soins
+    - Dépassement possible des capacités habituelles
+  - **Cinétique rapide**
+    - Accident collectif
+    - Attentat
+    - Explosion
+    - Effondrement
+    - Nombreuses victimes
+  - **Cinétique lente**
+    - Épidémie
+    - Pandémie
+    - Épisode climatique majeur
+    - Tension sanitaire prolongée
+  - **Risques spécifiques**
+    - NRBC
+    - REB
+    - Contamination
+    - Intoxication
+
+- **🏛️ 2. Organisation et commandement**
+  - **ORSEC**
+    - Organisation de la réponse de sécurité civile
+    - Pilotage sous autorité du préfet
+    - Mobilisation et coordination des acteurs et moyens
+    - Secours à nombreuses victimes
+    - Mise à l'abri / évacuation / protection des populations selon événement
+  - **NOVI**
+    - Nombreuses victimes
+    - Dispositif ORSEC
+    - Organise les secours et la prise en charge collective
+    - Déclenchement sous autorité du préfet
+  - **ORSAN**
+    - Organisation de la réponse du système de santé
+    - Préparation des établissements et filières
+    - Montée en puissance sanitaire
+    - Plans opérationnels
+      - AMAVI : accueil massif de victimes
+      - MEDICO-PSY : urgence médico-psychologique
+      - EPI-CLIM : épidémies et événements climatiques
+      - NRC : nucléaire, radiologique et chimique
+      - REB : risque épidémique et biologique
+  - **Plan zonal / PZMRS**
+    - Plan zonal de mobilisation des ressources sanitaires
+    - Renfort lorsque capacités régionales dépassées
+    - Ressources sanitaires de la zone de défense et de sécurité
+  - **PC et transmissions**
+    - PC : poste de commandement
+    - PC mobile : coordination opérationnelle au plus près de l'événement
+    - Poste mobile de transmission
+      - Maintien des liaisons
+      - Coordination des équipes
+      - Relais vers centres opérationnels
+    - Moyens et appellations selon le dispositif local
+  - **Acteurs et responsabilités**
+    - Préfet / DOS
+      - Direction des opérations de secours
+      - Coordination générale ORSEC
+    - COS
+      - Commandant des opérations de secours
+      - Généralement assuré par le service d'incendie et de secours
+    - SAMU / régulation médicale
+      - Coordination médicale
+      - Régulation
+      - Orientation des victimes
+    - SMUR
+      - Prise en charge médicale selon mission et moyens
+      - Participation à la chaîne médicale
+    - ARS
+      - Organisation de la réponse sanitaire
+      - Déclenchement et coordination ORSAN selon cadre
+    - Sapeurs-pompiers
+      - Secours, sauvetage et opérations relevant de leur mission
+    - Police / gendarmerie
+      - Sécurisation
+      - Gestion de la menace
+      - Contrôle des accès
+    - Établissements de santé
+      - Accueil selon capacités
+      - Organisation des filières et renforts
+
+- **⛑️ 3. Chaîne des secours**
+  - **Sécurisation / zone d'intervention**
+    - Reconnaissance par services compétents
+    - Identification des dangers
+    - Définition du zonage
+  - **PRV**
+    - Point de rassemblement des victimes
+    - Regroupement et prise en compte initiale
+    - Recensement et orientation vers la chaîne médicale
+    - Doit être identifié et sécurisé
+  - **PMA**
+    - Poste médical avancé
+    - Structure de prise en charge médicale
+    - Implantation en zone adaptée et sécurisée
+    - Évaluation et catégorisation
+    - Soins et préparation à l'évacuation
+  - **PRE**
+    - Point de répartition des évacuations
+    - Organisation des départs
+    - Répartition vers les établissements
+    - Selon régulation et décisions médicales
+  - **Établissements de santé**
+    - Accueil organisé
+    - Répartition selon capacités
+    - Filières adaptées
+  - **CUMP**
+    - Cellule d'urgence médico-psychologique
+    - Prise en charge des victimes psychiquement impactées
+    - Prise en charge des impliqués
+    - Soutien possible aux intervenants
+    - Équipes pluridisciplinaires formées
+  - **À distinguer**
+    - PRV = regroupement et recensement initial
+    - PMA = prise en charge médicale
+    - PRE = répartition des évacuations
+    - CUMP = urgence médico-psychologique
+
+- **🧰 4. Moyens spécifiques et logistique**
+  - **PSM**
+    - Poste sanitaire mobile
+    - PSM 1
+    - PSM 2
+    - PSM pédiatrique
+    - Autres dotations selon territoires / besoins
+    - Lots projetables pour renforcer les secours
+  - **Contre-mesures médicales**
+    - Antidotes
+    - Traitements spécifiques
+    - Produits de santé adaptés au risque identifié
+    - Utilisation selon protocole et responsabilité médicale
+  - **Équipements**
+    - EPI NRBC
+    - Matériel de détection
+    - Matériel de décontamination
+    - Respirateurs mobiles
+    - Moyens logistiques spécifiques
+  - **Gestion des stocks**
+    - Inventaire
+    - Vérification des dotations
+    - Contrôle des péremptions
+    - Intégrité des emballages
+    - Rotation des stocks
+    - Renouvellement
+    - Batteries et consommables
+    - Conditions de stockage
+    - Signalement des anomalies
+    - Traçabilité
+  - **Vigilance**
+    - Ne pas utiliser un produit hors mission
+    - Respecter formation, habilitation et protocole
+    - Ne pas improviser une administration
+
+- **☣️ 5. Risques spécifiques**
+  - **NRBC**
+    - N : nucléaire
+      - Accident nucléaire
+      - Explosion nucléaire
+    - R : radiologique
+      - Source radioactive
+      - Irradiation
+      - Contamination radioactive
+    - B : biologique
+      - Agent infectieux
+      - Toxine
+    - C : chimique
+      - Gaz
+      - Vapeurs
+      - Liquides toxiques
+      - Produits industriels
+  - **NRBC-E**
+    - NRBC et risque explosif
+    - Terminologie variable selon doctrine et contexte
+  - **REB**
+    - Risque épidémique et biologique
+    - Agent transmissible
+    - Épidémie
+    - Risque de propagation
+    - Mesures de prévention et circuits dédiés
+  - **CMIC**
+    - Cellule mobile d'intervention chimique
+    - Moyens spécialisés des services compétents
+    - Évaluation et intervention face au risque chimique
+  - **CMIR**
+    - Cellule mobile d'intervention radiologique
+    - Moyens spécialisés face au risque radiologique
+  - **Équipes spécialisées**
+    - Reconnaissance
+    - Détection
+    - Protection
+    - Décontamination
+  - **Plans ORSAN**
+    - NRC : risques nucléaires, radiologiques et chimiques
+    - REB : risques épidémiques et biologiques
+
+- **🛑 6. Zonage, protection et décontamination**
+  - **Zonage**
+    - Défini par les autorités et équipes compétentes
+    - Ajusté selon danger et évolution
+  - **Zone d'exclusion / danger**
+    - Danger immédiat ou contamination possible
+    - Accès réservé aux intervenants autorisés et équipés
+  - **Zone contrôlée / tampon**
+    - Zone de transition
+    - Contrôle des flux
+    - Sas et décontamination selon dispositif
+  - **Zone de soutien**
+    - Zone sécurisée
+    - Coordination et soutien logistique
+    - Accueil des moyens non engagés en zone contaminée
+  - **Règle absolue**
+    - Ne jamais pénétrer sans formation adaptée
+    - Équipement de protection approprié
+    - Autorisation
+    - Consignes opérationnelles
+    - Respect des limites de zone
+    - Respect des sas et circuits
+    - Respect du déshabillage et de la décontamination
+    - Prévenir la contamination secondaire
+    - En cas de doute : rester en zone sûre et alerter
+  - **Parcours victime**
+    - Ne pas transférer une victime contaminée en zone propre sans procédure
+    - Respecter le circuit de décontamination
+    - Protéger équipiers, véhicule, matériels et établissements
+
+- **🚑 7. Rôle de l'ambulancier SMUR**
+  - **Avant engagement**
+    - Prendre connaissance de la mission
+    - Identifier le risque
+    - Connaître le point de rendez-vous
+    - Recevoir les consignes
+    - Vérifier communications et dotations
+  - **Pendant dispositif**
+    - Sécurité de l'équipe et du patient
+    - Respect du commandement
+    - Respect du zonage
+    - Logistique
+    - Installation selon mission
+    - Transmissions
+    - Circulation des informations utiles
+    - Accueil et regroupement des victimes selon consignes
+    - Participation à la prise en charge
+    - Évacuation selon organisation médicale
+    - Traçabilité et identitovigilance
+  - **Triage secouriste**
+    - Évaluation initiale rapide et structurée
+    - Méthode enseignée et protocole du dispositif
+    - Repérer les détresses et priorités
+    - Utiliser catégories et étiquettes prévues
+    - Transmettre les constatations
+    - Réévaluer si évolution
+    - Triage dynamique
+    - Ne pas confondre triage secouriste et décision médicale d'orientation
+  - **Damage control**
+    - Objectif : limiter les causes évitables de décès
+    - Accéder rapidement au traitement définitif
+    - Principes généraux
+      - Contrôle des hémorragies majeures
+      - Prise en compte des détresses vitales
+      - Prévention de l'hypothermie
+      - Évacuation rapide vers structure adaptée
+    - Respecter compétences, protocoles et responsabilités
+    - Ne pas dépasser son champ de compétence
+
+- **🧠 8. Réflexes en situation**
+  - **Nombreuses victimes**
+    - Identifier ORSEC / NOVI
+    - Respecter commandement et organisation
+  - **Besoin de renfort**
+    - Articulation ORSAN et plan zonal
+  - **Victime au PRV**
+    - Respecter circuit vers PMA
+    - Suivre les consignes de régulation
+  - **Suspicion NRBC**
+    - Ne pas s'exposer
+    - Alerter
+    - Rester en zone sûre
+    - Attendre les consignes spécialisées
+  - **Matériel PSM**
+    - Inventaire
+    - Péremption
+    - Intégrité
+    - Rotation
+    - Traçabilité
+  - **Victime contaminée**
+    - Respect zonage
+    - Respect parcours de décontamination
+  - **Évacuation**
+    - Respect des décisions médicales
+    - Respect des circuits organisés
+
+- **⭐ À retenir**
+  - Sécurité des intervenants en premier
+  - Commandement identifié
+  - Transmissions claires
+  - PRV ≠ PMA ≠ PRE
+  - Triage secouriste dynamique
+  - Évacuation organisée et régulée
+  - Moyens spécifiques contrôlés
+  - Aucune entrée en zone dangereuse sans formation, protection, autorisation et consignes
+  - Traçabilité de l'action et du matériel
+
+- **📚 Sources officielles françaises**
+  - Arrêté du 17 mai 2023 relatif à la FAE des ambulanciers diplômés d'État de SMUR
+    - Annexe I, module 3
+    - https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047571467/
+  - Ministère chargé de la Santé — Cadre général SSE
+    - ORSAN, ORSEC et plans zonaux
+    - https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-cadre-general-de-l-organisation-du-systeme-de-sante-face-aux-situations
+  - Ministère de l'Intérieur — ORSEC
+    - Organisation de la réponse de sécurité civile
+    - https://www.securite-civile.interieur.gouv.fr/reagir-face-aux-risques-et-aux-menaces/comment-se-preparer-face-aux-risques/orsec-loutil-de-gestion-de-crise-du-prefet
+  - Ministère chargé de la Santé — ORSAN
+    - Plans AMAVI, MEDICO-PSY, EPI-CLIM, NRC et REB
+    - https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-dispositif-orsan-cadre-integre-de-preparation-et-de-reponse-du-systeme-de
+  - Ministère chargé de la Santé — Moyens territoriaux tactiques
+    - PSM, contre-mesures et EPI
+    - https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/attribution-et-gestion-des-moyens-territoriaux-tactiques
+  - Ministère chargé de la Santé — CUMP
+    - https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/les-cellules-d-urgence-medico-psychologique-cump
+  - Légifrance — Arrêté du 17 février 2010 relatif à SINUS
+    - Dénombrement, identification et suivi des victimes
+    - https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021873947

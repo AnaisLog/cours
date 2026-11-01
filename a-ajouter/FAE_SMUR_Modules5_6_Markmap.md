@@ -1,0 +1,349 @@
+# 🗣️⚖️ FAE SMUR — Modules 5 & 6
+## Relation, communication & cadre professionnel
+
+- **📌 Référentiel**
+  - Module 5 : Relation et communication
+    - Durée : 7 heures
+  - Module 6 : Aspects réglementaires, médico-légaux et éthiques
+    - Durée : 7 heures
+  - Arrêté du 17 mai 2023
+    - Annexe I
+    - Évaluation notamment en stage et en mises en situation
+  - Les modules 1, 2, 5 et 6 sont également évalués au cours des mises en situation des modules 3 et 4
+
+- **🗣️ MODULE 5 — Relation et communication**
+  - **🎯 Objectifs**
+    - Limiter les erreurs liées aux défauts de communication et d'organisation
+    - Adapter la relation aux personnes et aux situations
+    - Communiquer efficacement avec l'équipe
+    - Utiliser un raisonnement méthodique en urgence
+    - Identifier son leadership
+    - Repérer et gérer son stress et celui de l'équipe
+    - Accompagner les familles et les personnes soignées
+    - Appréhender les situations de décès et les SSE
+    - Travailler en équipe pluridisciplinaire et pluriprofessionnelle
+  - **🧠 Raisonnement clinique**
+    - Observer
+      - Signes visibles
+      - Comportement
+      - Environnement
+      - Détresse éventuelle
+    - Recueillir
+      - Paroles de la personne
+      - Symptômes
+      - Antécédents connus
+      - Traitements connus
+      - Circonstances
+    - Repérer la gravité
+      - Détresse vitale
+      - Risque d'aggravation
+      - Signes d'alerte
+    - Hiérarchiser
+      - Priorités
+      - Informations à transmettre sans délai
+      - Actions relevant de son rôle
+    - Réévaluer
+      - Évolution
+      - Efficacité des actions
+      - Apparition de nouveaux signes
+    - Démarche collective
+      - Partager les observations
+      - Ne pas poser de diagnostic hors compétence
+  - **📢 Communication SAED**
+    - S : Situation
+      - Qui suis-je ?
+      - Où sommes-nous ?
+      - Pourquoi j'appelle ?
+    - A : Antécédents
+      - Contexte
+      - Antécédents utiles connus
+      - Traitements ou informations pertinentes
+    - E : Évaluation
+      - Observations
+      - Signes constatés
+      - Évolution
+      - Gravité repérée
+    - D : Demande
+      - Avis
+      - Renfort
+      - Consigne
+      - Décision attendue
+    - Bonnes pratiques
+      - Message bref
+      - Faits objectifs
+      - Informations hiérarchisées
+      - Faire préciser une consigne ambiguë
+      - Reformuler et confirmer
+      - Transmettre toute aggravation
+  - **🤝 Relation avec la personne**
+    - Se présenter
+      - Identité
+      - Fonction dans l'équipe
+    - Expliquer
+      - Mots simples
+      - Information adaptée
+      - Expliquer les gestes dans la limite de son rôle
+    - Écouter
+      - Besoins
+      - Inquiétudes
+      - Douleurs
+    - Respecter
+      - Dignité
+      - Intimité
+      - Pudeur
+      - Culture
+      - Rythme
+    - Consentement
+      - Expliquer
+      - Rechercher l'accord
+      - Respecter le cadre légal
+      - Alerter en cas de refus ou difficulté
+    - Adapter la communication
+      - Âge
+      - Handicap
+      - Langue
+      - Compréhension
+      - Conscience
+      - Stress
+      - Troubles cognitifs ou sensoriels
+  - **🧩 Situations relationnelles difficiles**
+    - Attitude calme
+    - Voix posée
+    - Distance adaptée
+    - Ne pas juger
+    - Ne pas banaliser
+    - Ne pas culpabiliser
+    - Ne pas promettre l'impossible
+    - Donner des informations fiables dans son rôle
+    - Protéger la confidentialité
+    - Agressivité
+      - Préserver la sécurité
+      - Ne pas répondre à la provocation
+      - Demander du renfort si besoin
+  - **👥 Travail en équipe**
+    - Coordination
+      - Rôles identifiés
+      - Consignes explicites
+      - Communication en boucle fermée
+      - Reçu / compris / fait
+    - Leadership
+      - Organiser et faciliter l'action
+      - Selon rôle confié
+      - Ne pas se substituer au médecin
+    - Stress
+      - Repérer ses signes
+      - Repérer ceux des collègues
+      - Entraide
+      - Relais et pauses possibles
+    - Débriefing
+      - Analyser les faits
+      - Analyser les décisions
+      - Analyser la communication
+      - Identifier les améliorations
+      - Sans jugement
+  - **👨‍👩‍👧 Familles, proches et décès**
+    - Écouter les proches
+    - Orienter vers le professionnel compétent
+    - Respecter le secret
+    - Respecter les consignes médicales
+    - Ne pas annoncer seul un décès
+    - Ne pas délivrer une information médicale non autorisée
+    - En SSE
+      - Respecter l'organisation d'information des familles
+      - Attitude digne et humaine
+
+- **⚖️ MODULE 6 — Aspects réglementaires, médico-légaux et éthiques**
+  - **🎯 Objectif**
+    - Respecter le cadre réglementaire
+    - Respecter le cadre médico-légal
+    - Respecter l'éthique
+    - Agir en urgence sans dépasser ses compétences
+  - **📚 Cadre AMU et organisation**
+    - AMU
+      - Aide médicale urgente
+      - SAMU
+      - Régulation médicale
+      - SMUR
+    - Équipe SMUR
+      - Équipe pluriprofessionnelle
+      - Missions et rôles définis
+      - Qualification et compétences de chacun
+    - Champ de compétence
+      - Distinguer rôle et compétences
+      - Distinguer actes autorisés par les textes
+      - Distinguer prescription
+      - Distinguer protocole
+    - Protocoles locaux
+      - Les connaître
+      - Les appliquer
+      - Ils ne peuvent pas élargir les compétences légales
+    - En cas de doute
+      - Sécuriser
+      - Ne pas improviser
+      - Alerter le responsable médical
+      - Demander clarification
+  - **⚖️ Responsabilités professionnelles**
+    - Responsabilité pénale
+      - Répondre personnellement d'une infraction éventuelle
+    - Responsabilité civile / administrative
+      - Réparation d'un dommage selon statut et circonstances
+    - Responsabilité disciplinaire
+      - Manquement aux obligations professionnelles
+    - Traçabilité
+      - Faits utiles
+      - Observations
+      - Horaires
+      - Actions
+      - Transmissions selon procédure
+    - Bonnes pratiques
+      - Respecter ses limites
+      - Alerter sans délai
+      - Ne pas dissimuler une erreur
+      - Décrire des faits objectifs
+  - **🔐 Secret professionnel et droit de réserve**
+    - Secret professionnel
+      - Informations sur la personne
+      - État de santé
+      - Vie privée
+    - Secret partagé
+      - Professionnels autorisés
+      - Informations strictement nécessaires
+      - Coordination et continuité des soins
+      - Dans le cadre légal
+    - Discrétion et réserve
+      - Ne pas divulguer d'informations professionnelles
+      - Ne pas commenter une intervention publiquement
+    - RGPD
+      - Accès limité au nécessaire
+      - Canaux sécurisés
+      - Outils institutionnels
+    - Réseaux sociaux
+      - Pas de photo ou vidéo non autorisée
+      - Pas d'identité identifiable
+      - Pas de récit identifiable d'intervention
+  - **🧍 Droits de la personne et éthique**
+    - Dignité
+    - Non-discrimination
+    - Information compréhensible dans les limites du rôle
+    - Consentement
+      - Rechercher l'accord
+      - Respecter le refus dans le cadre légal
+      - Alerter l'équipe médicale
+    - Intimité
+    - Confidentialité
+    - Bienfaisance
+    - Non-malfaisance
+    - Équité
+    - Vigilance accrue
+      - Enfants
+      - Personnes âgées
+      - Personnes handicapées
+      - Personnes sous emprise
+  - **🚨 Situations médico-judiciaires**
+    - Scène de crime / suspicion d'infraction
+      - Priorité aux secours et à la sécurité
+      - Ne pas déplacer inutilement les éléments
+      - Exception : nécessité de soins ou sécurité
+      - Limiter les déplacements
+      - Préserver lieux et objets
+      - Informer autorités
+      - Suivre consignes
+      - Tracer les actions
+    - Violences et maltraitance
+      - Accueillir sans jugement
+      - Écouter et sécuriser
+      - Ne pas confronter la personne suspectée
+      - Ne pas mener d'interrogatoire
+      - Recueillir les paroles utiles avec exactitude
+      - Alerter le médecin
+      - Appliquer les procédures de protection
+      - Respecter secret et règles spécifiques
+    - Mort inattendue du nourrisson / décès
+      - Appliquer les procédures médicales et médico-légales
+      - Ne pas modifier inutilement les lieux
+      - Médecin responsable des constatations et annonces relevant de son rôle
+      - Accompagner les proches avec dignité
+      - Pas de spéculation
+      - En SSE : circuit d'information des familles
+  - **🚑 Conduite en mission SMUR**
+    - Code de la route
+      - Connaître les règles applicables aux véhicules d'intérêt général
+      - Distinguer véhicule prioritaire et véhicule bénéficiant de facilités de passage
+      - Respecter les conditions réglementaires
+      - Prudence et maîtrise restent indispensables
+    - Sécurité
+      - Ne pas mettre en danger l'équipe
+      - Ne pas mettre en danger le patient
+      - Ne pas mettre en danger les autres usagers
+    - VML et ambulance
+      - Connaître les normes applicables
+      - Contrôler l'équipement
+      - Contrôler l'entretien
+    - Arrimage
+      - Fixer matériel et équipements
+      - Sécuriser patient et équipage
+      - Contrôler brancard et ceintures
+      - Contrôler portes
+      - Éviter tout objet mobile
+  - **🧠 Réflexes en situation**
+    - Information clinique importante
+      - Observer
+      - Hiérarchiser
+      - Transmettre avec SAED
+    - Consigne non comprise
+      - Faire répéter
+      - Confirmer
+    - Refus du patient
+      - Écouter
+      - Expliquer
+      - Prévenir le médecin
+      - Tracer selon procédure
+    - Demande d'un proche
+      - Écouter
+      - Protéger le secret
+      - Orienter vers professionnel compétent
+    - Doute sur un acte
+      - Ne pas improviser
+      - Vérifier texte et protocole
+      - Alerter
+    - Scène médico-judiciaire
+      - Soigner et sécuriser
+      - Préserver les éléments
+    - Erreur ou incident
+      - Protéger la personne
+      - Alerter
+      - Tracer
+    - Stress ou conflit
+      - Communiquer
+      - Demander du soutien
+      - Débriefer
+  - **⭐ Fil conducteur**
+    - Observer
+    - Réfléchir
+    - Communiquer
+    - Agir dans son champ de compétence
+    - Réévaluer
+    - Transmettre et tracer
+
+- **📚 Sources officielles françaises**
+  - Arrêté du 17 mai 2023 relatif à la FAE des ambulanciers diplômés d'État de SMUR
+    - Annexe I, modules 5 et 6
+    - https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047571467/
+  - Code de la santé publique, article L.1110-4
+    - Secret professionnel et partage des informations
+    - https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041721056
+  - Code de la santé publique, article L.1111-4
+    - Consentement et refus de soins
+    - https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041721056
+  - Code de la santé publique, article R.6311-17
+    - Actes des ambulanciers dans le cadre de l'AMU, sous conditions
+    - https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045644940
+  - Code de la route
+    - Véhicules d'intérêt général et règles de circulation
+    - https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006074228/
+  - Charte de la personne hospitalisée
+    - Droits, dignité, information et consentement
+    - https://sante.gouv.fr/IMG/pdf/charte_a4_couleur.pdf
+  - CNIL
+    - Données personnelles et professionnels de santé
+    - https://www.cnil.fr/fr/rgpd-et-professionnels-de-sante-liberaux-ce-que-vous-devez-savoir

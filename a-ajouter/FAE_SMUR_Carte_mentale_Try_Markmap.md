@@ -1,0 +1,291 @@
+# 🚑 FAE SMUR — Carte mentale Markmap
+- **🎯 Finalité de la formation**
+  - Contribuer à une prise en charge préhospitalière sûre et coordonnée
+  - Participer aux missions dans le respect des compétences et procédures
+  - Communiquer avec l’équipe et transmettre les informations utiles
+  - Protéger le patient, les intervenants et la collectivité
+- **📻 Module 1 — Radiotéléphonie et outils numériques**
+  - **📡 Comprendre les transmissions**
+    - Principe d’émission et de réception
+      - Un émetteur transmet un message via un réseau
+      - Un récepteur reçoit le message sur un équipement compatible
+    - Types de réseaux et fréquences
+      - Connaître les réseaux utilisés par les services
+      - Respecter les canaux et procédures locales
+  - **🧰 Utiliser les matériels**
+    - Radio et téléphone
+      - Téléphone satellite selon équipement
+    - Outils numériques
+      - Tablettes numériques
+      - Télétransmission des ECG
+      - Système SINUS
+  - **🗣️ Structurer une communication radio**
+    - Identifier qui appelle et qui est appelé
+    - Préciser la localisation
+    - Décrire la situation avec des faits utiles
+    - Formuler une demande claire
+    - Écouter la réponse et confirmer la bonne compréhension
+    - Employer le vocabulaire conventionnel enseigné
+      - Langage et alphabet OACI si prévus par la procédure
+  - **🔧 Assurer la disponibilité du matériel**
+    - Contrôler alimentation et charge
+    - Vérifier antenne, accessoires et réseau
+    - Tester le fonctionnement
+    - Appliquer la procédure de dépannage
+    - Signaler et tracer toute anomalie
+  - **🔐 Protéger les données**
+    - Appliquer le secret professionnel
+    - Respecter le RGPD
+      - Ne transmettre que les données nécessaires
+      - Utiliser les canaux autorisés
+      - Protéger les appareils et les accès
+- **🧼 Module 2 — Hygiène, décontamination et désinfection**
+  - **🦠 Comprendre la transmission infectieuse**
+    - Contact direct ou indirect
+    - Gouttelettes
+    - Voie aérienne
+    - Sang et liquides biologiques
+    - Identifier les agents et situations à risque
+  - **🛡️ Prévenir la transmission croisée**
+    - Appliquer les précautions standard à chaque patient
+      - Hygiène des mains
+      - Protection adaptée au risque d’exposition
+      - Gestion sécurisée du matériel et de l’environnement
+    - Ajouter les précautions complémentaires selon le risque et les consignes
+    - Connaître les vaccinations recommandées ou obligatoires selon le statut professionnel
+  - **🥽 Utiliser les équipements de protection individuelle**
+    - Choisir les EPI adaptés au risque
+      - Gants
+      - Protection de la tenue
+      - Masque
+      - Protection oculaire
+    - Réaliser l’habillage et le retrait sans se contaminer
+  - **🧴 Nettoyer et désinfecter**
+    - Entretenir le véhicule et les matériels selon le protocole
+    - Choisir un produit adapté
+      - Respecter la dilution
+      - Respecter le temps de contact
+      - Vérifier la compatibilité des surfaces
+      - Ne jamais mélanger les produits
+    - Distinguer entretien courant et décontamination après exposition particulière
+  - **☣️ Gérer les déchets**
+    - Trier selon la filière
+      - DASRI
+      - Déchets assimilés aux ordures ménagères
+      - Objets piquants, coupants ou tranchants
+        - Déposer dans un collecteur adapté
+    - Respecter les circuits et consignes locales
+  - **💉 Réagir à un accident d’exposition au sang ou aux liquides biologiques**
+    - Interrompre l’activité et appliquer immédiatement les premiers gestes adaptés
+    - Alerter sans délai
+    - Suivre la procédure institutionnelle
+    - Assurer le suivi prévu
+- **🚨 Module 3 — Situations sanitaires exceptionnelles**
+  - **📋 Comprendre les plans de secours**
+    - Connaître les principes ORSEC
+    - Identifier les plans et dispositifs mobilisables
+    - Comprendre la doctrine de mobilisation
+    - Connaître le plan zonal
+  - **🔗 Identifier les acteurs de la chaîne des secours**
+    - SAMU et régulation
+      - Organisation de la réponse médicale
+      - Coordination des moyens médicaux
+    - SMUR
+      - Prise en charge médicale préhospitalière
+    - Sapeurs-pompiers
+      - Secours et opérations de sauvetage selon mission
+    - Forces de sécurité et gendarmerie
+      - Sécurisation et gestion des accès selon dispositif
+    - Établissements de santé
+      - Accueil et organisation des capacités de soins
+    - Autorités
+      - Coordination générale selon le plan déclenché
+  - **🏥 Comprendre les maillons médicaux**
+    - PRV — point de regroupement des victimes
+      - Regroupement et organisation initiale des victimes
+    - PMA — poste médical avancé
+      - Évaluation et soins médicaux avant évacuation
+    - Évacuation
+      - Orientation et transport selon priorités et régulation
+    - CUMP — cellule d’urgence médico-psychologique
+      - Soutien médico-psychologique des personnes concernées
+  - **🚑 Définir la place de l’ambulancier·ère**
+    - Participer à la mise en place du dispositif selon mission
+    - Contribuer à la sécurité et à la logistique
+    - Assurer les transmissions utiles
+    - Participer au transport et à l’évacuation selon organisation
+    - Comprendre le triage secouriste
+      - Hiérarchiser les victimes dans une logique collective
+      - Appliquer les consignes du dispositif
+    - Comprendre les principes du damage control
+      - Prioriser les actions essentielles face à une situation grave
+      - Agir dans les limites de son rôle et sous coordination
+  - **📦 Connaître les dotations tactiques**
+    - Lots PSM — postes sanitaires mobiles
+    - Antidotes
+    - Matériels spécifiques
+    - Assurer la disponibilité
+      - Inventorier
+      - Contrôler les dates de péremption
+      - Organiser la rotation
+      - Signaler les manquants
+  - **📡 Connaître les moyens de commandement et de transmission**
+    - Poste de commandement mobile
+    - Poste mobile de transmission
+    - Fonctionnement et missions selon l’organisation locale
+  - **☢️ Prévenir les risques NRBC**
+    - NRBC signifie nucléaire, radiologique, biologique et chimique
+    - Identifier le danger et respecter le zonage
+    - Utiliser les EPI adaptés
+    - Connaître les moyens spécialisés
+      - CMIC selon l’organisation locale
+    - Participer à la décontamination selon formation et consignes
+    - Ne jamais entrer en zone dangereuse sans formation, protection, autorisation et consignes
+  - **🦠 Gérer le risque épidémique et biologique**
+    - REB signifie risque épidémique et biologique
+    - Connaître les notions d’épidémiologie et les situations cliniques
+    - Repérer un patient suspect
+    - Appliquer les mesures barrières et les consignes d’isolement/orientation
+    - Protéger les équipes et la collectivité
+    - Connaître les circuits de décontamination d’urgence
+  - **🪪 Utiliser SINUS**
+    - Identifier les victimes
+    - Contribuer au suivi des victimes
+    - Renseigner et transmettre selon les modalités locales
+  - **🧽 Maintenir les matériels SSE**
+    - Contrôler les lots PSM
+    - Contrôler les matériels de décontamination hospitalière d’urgence
+    - Vérifier les EPI
+    - Assurer inventaire, rotation et disponibilité
+- **🩺 Module 4 — Participation à la prise en soins en équipe pluriprofessionnelle**
+  - **🚩 Reconnaître les détresses vitales**
+    - Détresse neurologique
+      - Altération de la conscience ou du comportement
+      - Signes neurologiques d’alerte
+    - Détresse ventilatoire
+      - Anomalie de la respiration
+      - Signes de lutte ou d’épuisement
+    - Détresse circulatoire
+      - Signes de choc ou d’hémorragie
+      - Altération de la perfusion
+  - **🔎 Structurer l’évaluation avec XABCDE**
+    - X — hémorragie massive
+      - Repérer une hémorragie immédiatement menaçante
+    - A — voies aériennes
+      - Évaluer leur liberté
+    - B — respiration
+      - Évaluer la ventilation et l’oxygénation
+    - C — circulation
+      - Évaluer circulation et hémorragies
+    - D — neurologie
+      - Évaluer conscience et état neurologique
+    - E — exposition et environnement
+      - Rechercher les lésions en préservant la température et la dignité
+  - **📟 Connaître les mesures et outils du programme**
+    - Saturation en oxygène
+      - Recueil non invasif de la SpO₂
+    - Monoxyde de carbone
+      - Recueil non invasif du taux de CO selon l’appareil
+    - Hémoglobinémie
+      - Recueil avec le dispositif prévu
+    - Glycémie capillaire
+      - Recueil avec le dispositif prévu
+    - Électrocardiogramme
+      - Enregistrement avec outil automatisé
+      - Transmission à visée diagnostique
+  - **💊 Participer à l’administration de produits et médicaments**
+    - Respecter les textes, la formation, la prescription ou le protocole applicable
+    - Produits non médicamenteux
+      - Administration en aérosol selon le cadre prévu
+    - Médicaments mentionnés dans le programme
+      - Spray buccal
+      - Aérosol ou pulvérisation
+      - Voie orale
+      - Voie intranasale
+        - Patient conscient et cohérent selon les conditions prévues
+      - Stylo auto-injecteur
+    - Sécuriser chaque administration selon la procédure
+      - Vérifier patient, indication, allergies, produit, dose et voie
+      - Respecter les consignes médicales
+      - Tracer l’acte et transmettre les effets observés
+  - **🤰 Connaître la conduite face à un accouchement inopiné**
+    - Alerter et coordonner la réponse
+    - Préparer l’environnement et le matériel selon consignes
+    - Protéger la mère et le nouveau-né
+    - Participer à l’assistance dans les limites de son rôle
+    - Organiser la surveillance et le transport
+  - **🤝 Travailler en équipe**
+    - Anticiper les besoins matériels
+    - Sécuriser l’environnement
+    - Respecter la répartition des rôles
+    - Surveiller et transmettre toute évolution
+- **🗣️ Module 5 — Relation et communication**
+  - **🧠 Développer le raisonnement clinique**
+    - Observer la situation
+    - Recueillir les informations utiles
+    - Repérer les signes de gravité
+    - Hiérarchiser les priorités
+    - Réévaluer après les actions
+  - **📣 Transmettre avec SAED**
+    - S — Situation
+      - Quel est le problème actuel
+    - A — Antécédents
+      - Quelles informations de contexte sont utiles
+    - E — Évaluation
+      - Quels signes et mesures sont constatés
+    - D — Demande
+      - Quelle aide ou décision est attendue
+  - **💬 Adapter la relation**
+    - Se présenter et expliquer les actions
+    - Écouter le patient et l’entourage
+    - Respecter dignité, intimité et consentement
+    - Adapter les mots et le mode de communication
+  - **🧘 Communiquer en situation de crise**
+    - Garder un ton calme et des messages concis
+    - Utiliser les circuits d’alerte
+    - Respecter les consignes de coordination
+- **⚖️ Module 6 — Aspects réglementaires, médico-légaux et éthiques**
+  - **📚 Connaître le cadre d’exercice**
+    - Textes en vigueur relatifs au transport sanitaire urgent et à l’AMU
+    - Conditions de réalisation des actes prévus
+    - Prescription médicale et protocoles applicables
+  - **🧭 Respecter les limites professionnelles**
+    - Distinguer compétences et actes relevant d’autres professionnel·les
+    - Vérifier le cadre avant d’agir
+    - Ne jamais improviser un acte ou une administration
+    - En cas de doute
+      - Sécuriser la situation
+      - Alerter le ou la responsable médical·e
+      - Appliquer la procédure
+  - **🔒 Garantir la confidentialité**
+    - Secret professionnel
+    - RGPD
+    - Transmissions sécurisées
+    - Traçabilité adaptée
+  - **❤️ Appliquer les principes éthiques**
+    - Respect de la personne et de sa dignité
+    - Recherche de l’adhésion et respect du consentement
+    - Non-discrimination
+    - Proportionnalité des actions
+- **⭐ Fil conducteur opérationnel d’une mission**
+  - **🚑 Avant la mission**
+    - Contrôler véhicule et matériel
+    - Vérifier les EPI et dotations
+    - Comprendre la mission et les transmissions
+  - **🩺 Pendant la mission**
+    - Sécuriser la scène
+    - Évaluer avec XABCDE selon rôle et formation
+    - Communiquer et respecter les rôles
+    - Surveiller et réévaluer
+    - Transmettre les informations utiles
+  - **🧼 Après la mission**
+    - Transmettre avec SAED
+    - Assurer la traçabilité
+    - Trier les déchets
+    - Nettoyer et désinfecter
+    - Réassortir et contrôler les dotations
+    - Signaler les anomalies
+- **⚠️ Points à confirmer auprès du formateur**
+  - Certaines lignes des captures sont tronquées ou répétées
+  - Le sigle UDH n’est pas explicité dans les captures
+  - Les actes et administrations dépendent des textes en vigueur, de la formation, des protocoles locaux et des consignes médicales

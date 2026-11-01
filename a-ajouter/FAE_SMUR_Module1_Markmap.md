@@ -1,0 +1,230 @@
+# 📻 FAE SMUR — Module 1
+## Radiotéléphonie & outils numériques
+
+- **🎯 Objectif du module**
+  - Utiliser les moyens radio et numériques embarqués
+  - Assurer des communications fiables en situation normale et exceptionnelle
+  - Maintenir le matériel opérationnel
+  - Protéger les données et respecter le RGPD
+  - Référentiel : arrêté du 17 mai 2023
+    - Module 1 : 3,5 heures estimées
+
+- **📡 1. Moyens de communication**
+  - **Radio embarquée**
+    - Liaison opérationnelle selon réseau et procédure du service
+    - Éléments
+      - Poste radio
+      - Microphone
+      - Haut-parleur
+      - Antenne
+      - Bouton PTT
+    - Réseaux et fréquences
+      - Utiliser uniquement les réseaux attribués
+      - Connaître les canaux et indicatifs locaux
+      - Ne pas changer de fréquence sans consigne
+  - **Téléphone professionnel**
+    - Appels directs
+    - Coordination
+    - Moyen de repli selon procédure
+  - **Téléphone satellite**
+    - Solution possible si réseaux terrestres indisponibles
+    - Utilisation selon équipement et procédure
+  - **Tablette numérique**
+    - Applications institutionnelles
+    - Consultation et transmission sécurisées
+    - Verrouillage de session
+  - **Télétransmission ECG**
+    - Vérifier le bon patient
+    - Vérifier qualité et lisibilité du tracé
+    - Transmettre par circuit autorisé
+    - Vérifier envoi et réception
+  - **SINUS**
+    - Système d'Information Numérique Standardisé
+    - Dénombrement et suivi des victimes
+    - Utilisé notamment lors d'événements à nombreuses victimes
+    - S'inscrit dans l'organisation ORSEC-NOVI
+    - Interfaçage avec SI-VIC
+    - Respecter les rôles attribués et consignes de saisie
+
+- **🗣️ 2. Transmission radio**
+  - **Préparer l'émission**
+    - Écouter le canal avant de parler
+    - Vérifier le bon interlocuteur
+    - Utiliser l'indicatif prévu
+    - Appuyer sur PTT
+    - Marquer une courte pause
+  - **Structurer le message**
+    - Qui appelle ?
+      - Indicatif équipe / véhicule
+    - À qui ?
+      - Destinataire identifié
+    - Où ?
+      - Localisation précise
+      - Accès et points de repère utiles
+    - Quoi ?
+      - Situation factuelle
+      - Informations utiles et vérifiées
+    - Demande ?
+      - Besoin ou action attendue
+    - Confirmation ?
+      - Écouter la réponse
+      - Reformuler si nécessaire
+      - Faire confirmer la bonne compréhension
+  - **Qualité de communication**
+    - Voix posée
+    - Débit lent
+    - Phrases courtes
+    - Vocabulaire professionnel
+    - Un message à la fois
+    - Épeler si nécessaire
+      - Alphabet phonétique OACI
+      - Alpha, Bravo, Charlie, Delta...
+    - Demander de répéter en cas de doute
+  - **À éviter**
+    - Parler trop vite
+    - Couper la parole
+    - Abréviations ambiguës
+    - Informations non vérifiées
+    - Données nominatives inutiles
+    - Informations confidentielles sur canal inadapté
+  - **Règle**
+    - Ne jamais deviner un message incompris
+    - Faire répéter et confirmer
+
+- **🔧 3. Maintenance et dépannage**
+  - **Contrôle à la prise de poste**
+    - Batterie et charge
+    - Alimentation et chargeur
+    - Antenne
+    - Micro et haut-parleur
+    - Bouton PTT
+    - Volume et réglages autorisés
+    - Réseau et qualité de liaison
+    - Test selon procédure locale
+    - Téléphone et tablette
+      - Charge
+      - Connexion
+      - Applications accessibles
+      - Accessoires disponibles
+  - **En cas de panne**
+    - Identifier le dysfonctionnement
+    - Ne pas retarder une transmission urgente
+    - Vérifications simples autorisées uniquement
+    - Utiliser le moyen de secours prévu
+    - Informer équipe et régulation si nécessaire
+    - Signaler au responsable désigné
+    - Tracer
+      - Nature de la panne
+      - Heure / moment du constat
+      - Mesures prises
+      - Suivi
+    - Ne pas démonter ou réparer sans habilitation
+
+- **📲 4. Outils numériques**
+  - **Télétransmission ECG**
+    - Vérifier identité du patient
+    - Vérifier qualité du tracé
+    - Utiliser le circuit sécurisé
+    - Confirmer envoi et réception
+    - Alerter si échec de transmission
+  - **Tablette**
+    - Applications autorisées
+    - Accès professionnels personnels
+    - Verrouillage de l'écran
+    - Protection contre les regards indiscrets
+  - **Vidéotransmission**
+    - Destinataire vérifié
+    - Cadre institutionnel respecté
+    - Confidentialité garantie
+    - Consentement / conditions applicables selon protocole
+  - **SINUS**
+    - Dénombrement
+    - Traçabilité et suivi des victimes
+    - Identification et catégorisation selon organisation prévue
+    - Articulation avec SI-VIC
+    - Respect des responsabilités et consignes ORSEC-NOVI
+
+- **🔐 5. Secret professionnel et RGPD**
+  - **Secret professionnel**
+    - Toute information connue dans le cadre de la mission est protégée
+    - Accès réservé aux personnes habilitées
+    - Partage uniquement pour les besoins de la prise en charge
+  - **Minimisation des données**
+    - Données adéquates
+    - Données pertinentes
+    - Données strictement nécessaires
+    - Pas de curiosité ni de consultation injustifiée
+  - **Sécurisation des outils**
+    - Code et verrouillage
+    - Session personnelle
+    - Accès sécurisés
+    - Mises à jour
+    - Écran protégé des regards
+    - Conversations non audibles par des tiers
+  - **Interdictions / risques**
+    - Téléphone personnel pour données patient
+    - Messagerie grand public non autorisée
+    - Photos ou vidéos non autorisées
+    - Partage de mots de passe
+    - Clé USB inconnue
+    - Publication sur réseaux sociaux
+    - Consultation injustifiée d'un dossier
+  - **Incident de sécurité**
+    - Perte ou vol d'un appareil
+    - Accès suspect
+    - Erreur de destinataire
+    - Prévenir immédiatement le responsable
+    - Suivre le circuit informatique institutionnel
+    - Ne pas dissimuler l'incident
+
+- **🧠 6. Réflexes en situation**
+  - **Message radio incompris**
+    - Faire répéter
+    - Reformuler
+    - Confirmer
+  - **Absence de liaison**
+    - Appliquer le plan de secours
+    - Utiliser le moyen alternatif prévu
+    - Alerter
+  - **ECG sans accusé de réception**
+    - Vérifier statut d'envoi
+    - Recontacter le destinataire selon procédure
+  - **Tablette perdue**
+    - Alerter immédiatement
+    - Suivre le circuit institutionnel
+  - **Nombreuses victimes**
+    - Appliquer ORSEC-NOVI
+    - Respecter l'organisation SINUS
+    - Assurer la fiabilité des informations confiées
+  - **Panne matérielle**
+    - Assurer la continuité de communication
+    - Signaler
+    - Tracer
+
+- **⭐ À retenir**
+  - Message clair
+  - Interlocuteur identifié
+  - Localisation précise
+  - Matériel contrôlé
+  - Réseau et procédure du service respectés
+  - Données minimisées et protégées
+  - Envoi et réception confirmés
+  - Panne ou incident signalé et tracé
+
+- **📚 Sources officielles françaises**
+  - Arrêté du 17 mai 2023 relatif à la FAE des ambulanciers diplômés d'État de SMUR
+    - Annexe I : référentiel de formation, module 1
+    - https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047571467/
+  - CNIL — RGPD et professionnels de santé
+    - Données limitées au nécessaire
+    - Accès réservé aux personnes autorisées
+    - https://www.cnil.fr/fr/rgpd-et-professionnels-de-sante-liberaux-ce-que-vous-devez-savoir
+  - CNIL — Guide pratique de protection des données personnelles
+    - Téléphones, tablettes et confidentialité des échanges
+    - https://www.cnil.fr/sites/default/files/atoms/files/guide-cnom-cnil.pdf
+  - Ministère chargé de la Santé — Guide ORSAN 2024
+    - SINUS et articulation avec SI-VIC
+    - https://sante.gouv.fr/IMG/pdf/guide_orsan_2024.pdf
+  - Arrêté du 17 février 2010 relatif à SINUS
+    - Dénombrement, identification et suivi des victimes
+    - https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021873947
